@@ -1,0 +1,6 @@
+/home/ubu/udp-streamer/build/CMakeFiles/sender.dir
+/home/ubu/udp-streamer/build/CMakeFiles/receiver.dir
+/home/ubu/udp-streamer/build/CMakeFiles/packet_test.dir
+/home/ubu/udp-streamer/build/CMakeFiles/jitter_buffer_test.dir
+/home/ubu/udp-streamer/build/CMakeFiles/edit_cache.dir
+/home/ubu/udp-streamer/build/CMakeFiles/rebuild_cache.dir
