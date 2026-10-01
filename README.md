@@ -1,6 +1,6 @@
 # UDP Streamer
 
-A small C++17 project that simulates a real-time packet stream over UDP. A sender pushes numbered packets through a simulated bad network (random loss and delay), and a receiver uses a jitter buffer to put them back in order and play them out on a steady schedule.
+A small C++20 project that simulates a real-time packet stream over UDP. A sender pushes numbered packets through a simulated bad network (random loss and delay), and a receiver uses a jitter buffer to put them back in order and play them out on a steady schedule.
 
 I built it to get hands-on with the tools and ideas behind real-time voice systems: UDP, async I/O with Boost.Asio, reordering, loss handling, and unit testing in modern C++.
 
